@@ -15,5 +15,9 @@ Weather app :
   2. Flask : https://github.com/jkaethee/Flask-Weather-App (if __name__ == "__main__" : with app.app_context(): db.create_all() app.run() ) //add this in app.py
 
 
+Book store :
+  1. Django : https://github.com/YashMarmat/django-ecommerce-bookstore
+  2. 
+
 
 https://github.com/Alpha-131/fl
