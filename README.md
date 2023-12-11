@@ -11,6 +11,9 @@ Hospital Management :
   2. Flask : https://github.com/adarshnin/Hospital_Management_System
 
 Weather app : 
-  1. Django :
+  1. Django : 
   2. Flask : https://github.com/jkaethee/Flask-Weather-App (if __name__ == "__main__" : with app.app_context(): db.create_all() app.run() ) //add this in app.py
 
+
+
+https://github.com/Alpha-131/fl
