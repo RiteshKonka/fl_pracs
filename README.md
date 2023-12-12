@@ -19,5 +19,5 @@ Book store :
   1. Django : https://github.com/YashMarmat/django-ecommerce-bookstore
   2. 
 
-
+https://github.com/Hastansh12/django-template
 https://github.com/Alpha-131/fl
